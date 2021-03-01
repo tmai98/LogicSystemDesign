@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Tien/Desktop/Project 1/computer_assignment_1/computer_assignment_1.sim/sim_1/synth/func/xsim/task1_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity task1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Tien/Desktop/Project 1/computer_assignment_1/computer_assignment_1.srcs/sim_1/new/task1_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity task1_tb

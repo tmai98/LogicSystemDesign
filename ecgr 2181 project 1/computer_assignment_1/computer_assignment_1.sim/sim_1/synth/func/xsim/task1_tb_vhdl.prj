@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"task1_tb_func_synth.vhd" \
+"../../../../../computer_assignment_1.srcs/sim_1/new/task1_tb.vhd" \
+
+# Do not sort compile order
+nosort

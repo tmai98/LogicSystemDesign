@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Nov 29 17:19:18 2018
+# Process ID: 22248
+# Current directory: E:/College_Work/UNCC_FALL_2018/ECGR_2181-002 (Logic Sytem Design I)/Vivado/full adder/FA_structural_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4344 E:\College_Work\UNCC_FALL_2018\ECGR_2181-002 (Logic Sytem Design I)\Vivado\full adder\FA_structural_adder\FA_structural_adder.xpr
+# Log file: E:/College_Work/UNCC_FALL_2018/ECGR_2181-002 (Logic Sytem Design I)/Vivado/full adder/FA_structural_adder/vivado.log
+# Journal file: E:/College_Work/UNCC_FALL_2018/ECGR_2181-002 (Logic Sytem Design I)/Vivado/full adder/FA_structural_adder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Nov 29 17:19:32 2018...
